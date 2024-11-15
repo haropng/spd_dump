@@ -4,6 +4,8 @@ work with Official SPRD U2S Diag Driver or LibUSB Driver.
 
 ### [Download prebuilt program (windows)](https://github.com/TomKing062/spreadtrum_flash/releases)
 
+### [Download prebuilt program (linux)](https://github.com/haropng/spd_dump/releases/tag/linux)
+
 ### [Original info](https://github.com/ilyakurdyukov/spreadtrum_flash)
 
 ### Usage
